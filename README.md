@@ -1,1 +1,10 @@
 # Integration-of-non-traditional-data-for-volume-forecasting
+
+With the rapid development of the supermarket industry, supply chain management and commodity sales forecasting have become increasingly important in the business field. However, traditional sales forecasting methods often overlook the value of non-traditional data, resulting in limited prediction accuracy. This study aims to explore the use of machine learning techniques combined with non-traditional data, such as Baidu Index and weather, to establish a model capable of predicting the future sales of commodities.
+Through data processing, algorithmic combination, and model parameter optimization, we hope to provide a theoretical framework and model support for the supermarket supply chain, guiding retail terminal procurement and inventory management.
+
+Firstly, this study incorporates non-traditional data variables such as Baidu Index and weather into traditional sales forecasting data, further enhancing model features. To further optimize model performance, we employ genetic algorithms and OpenFE for feature expansion. These methods achieve further improvement in model performance while ensuring its effectiveness.
+
+However, after feature expansion, the number of features becomes larger. To strike a balance between results and efficiency, we explore methods for feature selection. In this study, we utilize the Lasso algorithm to select features, thus optimizing model performance.
+
+In summary, this research successfully establishes a model for predicting future commodity sales by combining non-traditional data, machine learning techniques, feature expansion, and selection methods. This model not only effectively guides retail terminal procurement and inventory management but also provides strong support for the optimization of supermarket supply chains. Through this research, we offer a new sales forecasting method for the supermarket industry, which helps reduce inventory costs, improve business operation efficiency, and achieve intelligent supply chain management.
